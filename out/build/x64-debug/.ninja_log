@@ -1,0 +1,17 @@
+# ninja log v5
+2	1197	7178990705949514	OpenGLTesting/CMakeFiles/OpenGLTesting.dir/OpenGLTesting.cpp.obj	5e15526d9ceedb5e
+4	414	7178991003263741	OpenGLTesting/OpenGLTesting.exe	3acadd6769979fd1
+3	515	7178994271805115	OpenGLTesting/CMakeFiles/OpenGLTesting.dir/glad.c.obj	b9f02fb280cd7da7
+516	700	7178994273274754	OpenGLTesting/OpenGLTesting.exe	9ec9e939fe2e2b0c
+3	851	7178994688736284	OpenGLTesting/CMakeFiles/OpenGLTesting.dir/OpenGLTesting.cpp.obj	5e15526d9ceedb5e
+852	1003	7178994689956451	OpenGLTesting/OpenGLTesting.exe	9ec9e939fe2e2b0c
+3	869	7178995352039852	OpenGLTesting/CMakeFiles/OpenGLTesting.dir/OpenGLTesting.cpp.obj	5e15526d9ceedb5e
+870	1022	7178995353242644	OpenGLTesting/OpenGLTesting.exe	9ec9e939fe2e2b0c
+12	882	7178996271539097	OpenGLTesting/CMakeFiles/OpenGLTesting.dir/OpenGLTesting.cpp.obj	5e15526d9ceedb5e
+882	1080	7178996273135105	OpenGLTesting/OpenGLTesting.exe	9ec9e939fe2e2b0c
+14	875	7178999942937924	OpenGLTesting/CMakeFiles/OpenGLTesting.dir/OpenGLTesting.cpp.obj	5e15526d9ceedb5e
+876	1024	7178999944136698	OpenGLTesting/OpenGLTesting.exe	9ec9e939fe2e2b0c
+3	923	7179001333797736	OpenGLTesting/CMakeFiles/OpenGLTesting.dir/OpenGLTesting.cpp.obj	5e15526d9ceedb5e
+923	1077	7179001335021267	OpenGLTesting/OpenGLTesting.exe	9ec9e939fe2e2b0c
+12	1143	7179007987297120	OpenGLTesting/CMakeFiles/OpenGLTesting.dir/OpenGLTesting.cpp.obj	5e15526d9ceedb5e
+1144	1286	7179007988442759	OpenGLTesting/OpenGLTesting.exe	9ec9e939fe2e2b0c
